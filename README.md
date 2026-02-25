@@ -1,1 +1,3 @@
-# notes-app--fullstack-notes-management-with-authentication-229010-229062
+# Project Repository
+
+This is the initial README file for the project.
